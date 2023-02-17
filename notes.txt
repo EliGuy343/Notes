@@ -1,0 +1,5 @@
+Greed of the soil: 
+1. does he want another instance or does he want the current one to send data to multiple stores?
+2. use moment-timezone instead of moment - should fix most of the problems
+3. config.json isn't used
+4. get-items.js isn't used
